@@ -13,7 +13,7 @@
 <div class="layui-fluid">
     <div class="header layui-row">
         <div class="layui-col-md-4" >
-            <a href="{{route('home')}}" ><span id="headline">{{$user->name}}</span></a>
+            <a href="{{route('index',$user->id)}}" ><span id="headline">{{$user->name}}</span></a>
         </div>
         <div class="layui-col-md-1 layui-col-md-offset7">
             <ul class="layui-nav">

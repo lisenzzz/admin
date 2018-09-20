@@ -1,0 +1,11 @@
+body {
+    color:#333333;
+    font-family:tahoma,arial,宋体,helvetica,sans-serif;
+}
+.links {color: #009900}
+#main {
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+}

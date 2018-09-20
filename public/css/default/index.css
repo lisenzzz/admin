@@ -1,0 +1,20 @@
+#headline{
+    font-size:30px;
+    color: rgba(255,255,255,.7);
+    margin-top: 13px;
+    margin-left: 45px;
+    float: left;
+    display: block;
+}
+.header{
+    background-color: #393D49;
+    height: 60px;
+}
+.layui-fluid{
+    padding: 0 0;
+}
+.content{
+}
+.layui-nav-tree{
+    float:left;
+}

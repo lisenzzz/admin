@@ -1,0 +1,13 @@
+form{
+    padding-top: 50px;
+    padding-right: 50px;
+    width: 500px;
+    height: 200px;
+    border-radius:15px;
+    -webkit-box-shadow: 3px 3px 3px;
+    -moz-box-shadow: 3px 3px 3px;
+    box-shadow: 3px 3px 3px;
+}
+.row{
+    margin-top: 100px;
+}
